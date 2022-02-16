@@ -1,0 +1,14 @@
+.coursecard {
+  width: 350px;
+  box-shadow: 20px 20px 50px rgb(0 0 0 / 50%);
+  position: relative;
+  margin: 100px 30px 0;
+  transition: 1s;
+  height: 100px;
+  background-color: brown;
+  /* background: hsla(0, 0%, 100%, 0.149); */
+  backdrop-filter: blur(4.5px);
+  -webkit-backdrop-filter: blur(4.5px);
+  border-radius: 10px;
+  border: 1px solid;
+}

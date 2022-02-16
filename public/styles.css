@@ -1,0 +1,31 @@
+body {
+  background-color: #eceee8;
+  width: 95%;
+}
+.btn {
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+header {
+  background-color: #1c0c5b;
+  width: 100%;
+  margin-left: -8px;
+  top: 0;
+  z-index: 10;
+  padding: 16px 32px;
+  height: 70px;
+  border-bottom-left-radius: 70px;
+  box-shadow: 0 2px 4px grey;
+  position: fixed;
+}
+h1 {
+  color: aliceblue;
+  font-size: 1.875rem;
+  font-family: "Pacifico", cursive;
+}
+
+label {
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+}

@@ -1,0 +1,33 @@
+h2 {
+  margin: 50px auto;
+}
+.barGraphContainer {
+  margin-top: 70px;
+  width: 75%;
+  margin-left: auto;
+  z-index: 0;
+}
+.counter {
+  position: fixed;
+  z-index: 12;
+  color: #ffe4c4;
+  top: 0;
+  left: 85%;
+  font-size: 1.5rem;
+  margin-top: 50px;
+}
+.cardsContainer {
+  display: flex;
+  align-items: centers;
+  justify-content: space-around;
+}
+.pagination {
+  width: 100%;
+  z-index: 0;
+}
+.gg {
+  position: absolute;
+  margin: 30px 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+}

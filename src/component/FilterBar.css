@@ -1,0 +1,28 @@
+.filterContainer {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  background-color: white;
+  margin: 110px 30px 20px auto;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  height: 80px;
+  width: 80%;
+  overflow: hidden;
+}
+.filterinput {
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+  box-shadow: 0 2px 4px grey;
+  padding: 5px;
+  z-index: 5;
+}
+.selfpaced {
+  font-family: "Zen Kurenaido", sans-serif;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+}
